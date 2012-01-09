@@ -1,0 +1,13 @@
+emailToArduino created by Philip Stehlik - Copyright 2012
+See LICENSE for license details
+
+---
+
+emailToArduino is a simplistic tool to look for e-mails with a 'magic subject'. If one of those e-mails is found it sends
+a serial communication to arduino that can trigger an action.
+
+---
+
+Build with gradle via `gradle build` from the root directory
+
+---

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle Test Libraries">
+    <CLASSES>
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/org.spockframework/spock-core/c12498cf18507aa6433a94eb7d3e77d5/jars/spock-core-0.4-groovy-1.7.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/junit/junit/c12498cf18507aa6433a94eb7d3e77d5/jars/junit-4.8.1.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/cglib/cglib-nodep/c12498cf18507aa6433a94eb7d3e77d5/jars/cglib-nodep-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle Libraries">
+    <CLASSES>
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/javax.mail/mail/c12498cf18507aa6433a94eb7d3e77d5/jars/mail-1.4.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/javax.activation/activation/c12498cf18507aa6433a94eb7d3e77d5/jars/activation-1.1.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/org.slf4j/slf4j-log4j12/c12498cf18507aa6433a94eb7d3e77d5/jars/slf4j-log4j12-1.5.2.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/org.slf4j/slf4j-api/c12498cf18507aa6433a94eb7d3e77d5/jars/slf4j-api-1.5.2.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/log4j/log4j/c12498cf18507aa6433a94eb7d3e77d5/jars/log4j-1.2.14.jar!/" />
+      <root url="jar://$USER_HOME_GRADLE$/caches/artifacts-3/org.codehaus.groovy/groovy-all/c12498cf18507aa6433a94eb7d3e77d5/jars/groovy-all-1.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
